@@ -74,13 +74,13 @@
                 </li>
                 <li class=" nav-item"><a href="#"><i class="feather icon-users"></i><span class="menu-title" data-i18n="Form Elements">Students</span></a>
                     <ul class="menu-content">
-                        <li><a href="form-select.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Select">List</span></a>
+                        <li><a href="main.php?page=form-select"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Select">List</span></a>
                         </li>
                     </ul>
                 </li>
                 <li class=" navigation-header"><span>Administrator</span>
                 </li>
-                <li class=" nav-item"><a href="#"><i class="feather icon-user"></i><span class="menu-title" data-i18n="User">Users</span></a>
+                <li class=" nav-item"><a href="main.php?page=admin-user"><i class="feather icon-user"></i><span class="menu-title" data-i18n="User">Users</span></a>
                     <ul class="menu-content">
                         <li><a href="main.php?page=admin-user-list"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="List">List</span></a>
                         </li>
@@ -93,24 +93,6 @@
                         <li><a href="main.php?page=admin-user-type-list"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="List">List</span></a>
                         </li>
                         <li><a href="main.php?page=admin-user-type-create"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Create">Create</span></a>
-                        </li>
-                    </ul>
-                </li>
-                <li class=" nav-item"><a href="#"><i class="feather icon-file-text"></i><span class="menu-title" data-i18n="Miscellaneous">Miscellaneous</span></a>
-                    <ul class="menu-content">
-                        <li><a href="page-coming-soon.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Coming Soon">Coming Soon</span></a>
-                        </li>
-                        <li><a href="#"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Error">Error</span></a>
-                            <ul class="menu-content">
-                                <li><a href="error-404.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="404">404</span></a>
-                                </li>
-                                <li><a href="error-500.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="500">500</span></a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li><a href="page-not-authorized.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Not Authorized">Not Authorized</span></a>
-                        </li>
-                        <li><a href="page-maintenance.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Maintenance">Maintenance</span></a>
                         </li>
                     </ul>
                 </li>
