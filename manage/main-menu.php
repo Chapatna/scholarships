@@ -26,8 +26,8 @@
                 </li>
                 <li><a href="main.php?page=admin-user-view"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="View">View</span></a>
                 </li>
-                <li class=" nav-item"><a href="page-account-settings.html"><i class="feather icon-settings"></i><span class="menu-title" data-i18n="Account Settings">Account Settings</span></a>
-                </li>
+                <!--<li class=" nav-item"><a href="page-account-settings.html"><i class="feather icon-settings"></i><span class="menu-title" data-i18n="Account Settings">Account Settings</span></a>
+                </li>-->
 
                 <li class=" navigation-header"><span>Scholarships Management</span>
                 </li>
@@ -35,7 +35,7 @@
                     <ul class="menu-content">
                         <li><a href="main.php?page=scholarships-list"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="List View">List</span></a>
                         </li>
-                        <li><a href="scholarships-create.php"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Thumb View">Create</span></a>
+                        <li><a href="main.php?page=scholarships-create"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Thumb View">Create</span></a>
                         </li>
                     </ul>
                 </li>
@@ -43,7 +43,7 @@
                     <ul class="menu-content">
                         <li><a href="main.php?page=scholarships-type-list"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Grid">List</span></a>
                         </li>
-                        <li><a href="scholarships-type-create.php"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Typography">Create</span></a>
+                        <li><a href="main.php?page=scholarships-type-create"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Typography">Create</span></a>
                         </li>
                     </ul>
                 </li>
@@ -118,11 +118,11 @@
 
                 <li class=" navigation-header"><span>Support</span>
                 </li>
-                <li class=" nav-item"><a href="page-faq.html"><i class="feather icon-help-circle"></i><span class="menu-title" data-i18n="FAQ">FAQ</span></a>
+                <li class=" nav-item"><a href="main.php?page=page-faq"><i class="feather icon-help-circle"></i><span class="menu-title" data-i18n="FAQ">FAQ</span></a>
                 </li>
-                <li class=" nav-item"><a href="#"><i class="feather icon-folder"></i><span class="menu-title" data-i18n="Documentation">Documentation</span></a>
+                <li class=" nav-item"><a href="main.php?page=page-documentation"><i class="feather icon-folder"></i><span class="menu-title" data-i18n="Documentation">Documentation</span></a>
                 </li>
-                <li class=" nav-item"><a href="#"><i class="feather icon-life-buoy"></i><span class="menu-title" data-i18n="Raise Support">Raise Support</span></a>
+                <li class=" nav-item"><a href="main.php?page=page-raise-support"><i class="feather icon-life-buoy"></i><span class="menu-title" data-i18n="Raise Support">Raise Support</span></a>
                 </li>
             </ul>
         </div>

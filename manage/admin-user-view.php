@@ -24,15 +24,15 @@
                                             <table>
                                                 <tr>
                                                     <td class="font-weight-bold">Username</td>
-                                                    <td>adoptionism744</td>
+                                                    <td>napatcha.pr</td>
                                                 </tr>
                                                 <tr>
                                                     <td class="font-weight-bold">Name</td>
-                                                    <td>Angelo Sashington</td>
+                                                    <td>Napatcha Pradubthong</td>
                                                 </tr>
                                                 <tr>
                                                     <td class="font-weight-bold">Email</td>
-                                                    <td>angelo@sashington.com</td>
+                                                    <td>napatcha.pr@kmitl.ac.th</td>
                                                 </tr>
                                             </table>
                                         </div>
@@ -40,15 +40,15 @@
                                             <table class="ml-0 ml-sm-0 ml-lg-0">
                                                 <tr>
                                                     <td class="font-weight-bold">Status</td>
-                                                    <td>active</td>
+                                                    <td>Active</td>
                                                 </tr>
                                                 <tr>
                                                     <td class="font-weight-bold">Role</td>
-                                                    <td>admin</td>
+                                                    <td>Admin</td>
                                                 </tr>
                                                 <tr>
                                                     <td class="font-weight-bold">Company</td>
-                                                    <td>WinDon Technologies Pvt Ltd</td>
+                                                    <td>Computer Service Center</td>
                                                 </tr>
                                             </table>
                                         </div>
@@ -61,90 +61,6 @@
                             </div>
                         </div>
                         <!-- account end -->
-                        <!-- information start -->
-                        <div class="col-md-6 col-12 ">
-                            <div class="card">
-                                <div class="card-header">
-                                    <div class="card-title mb-2">Information</div>
-                                </div>
-                                <div class="card-body">
-                                    <table>
-                                        <tr>
-                                            <td class="font-weight-bold">Birth Date </td>
-                                            <td>28 January 1998
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Mobile</td>
-                                            <td>+65958951757</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Website</td>
-                                            <td>https://rowboat.com/insititious/Angelo
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Languages</td>
-                                            <td>English, Arabic
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Gender</td>
-                                            <td>female</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Contact</td>
-                                            <td>email, message, phone
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- information start -->
-                        <!-- social links end -->
-                        <div class="col-md-6 col-12 ">
-                            <div class="card">
-                                <div class="card-header">
-                                    <div class="card-title mb-2">Social Links</div>
-                                </div>
-                                <div class="card-body">
-                                    <table>
-                                        <tr>
-                                            <td class="font-weight-bold">Twitter</td>
-                                            <td>https://twitter.com/adoptionism744
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Facebook</td>
-                                            <td>https://www.facebook.com/adoptionism664
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Instagram</td>
-                                            <td>https://www.instagram.com/adopt-ionism744/
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Github</td>
-                                            <td>https://github.com/madop818
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">CodePen</td>
-                                            <td>https://codepen.io/adoptism243
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="font-weight-bold">Slack</td>
-                                            <td>@adoptionism744
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- social links end -->
                         <!-- permissions start -->
                         <div class="col-12">
                             <div class="card">
@@ -187,7 +103,7 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Articles</td>
+                                                    <td>Staff</td>
                                                     <td>
                                                         <div class="custom-control custom-checkbox ml-50"><input type="checkbox" id="users-checkbox5" class="custom-control-input" disabled><label class="custom-control-label" for="users-checkbox5"></label>
                                                         </div>
@@ -208,7 +124,7 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Staff</td>
+                                                    <td>Admin</td>
                                                     <td>
                                                         <div class="custom-control custom-checkbox ml-50"><input type="checkbox" id="users-checkbox9" class="custom-control-input" disabled checked>
                                                             <label class="custom-control-label" for="users-checkbox9"></label>
@@ -239,7 +155,6 @@
                 </section>
                 <!-- page users view end -->
 
-            </div>
         </div>
     </div>
     <!-- END: Content-->

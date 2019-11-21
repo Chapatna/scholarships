@@ -23,6 +23,9 @@
     <script src="../app-assets/vendors/js/tables/datatable/dataTables.select.min.js"></script>
     <script src="../app-assets/vendors/js/tables/datatable/datatables.checkboxes.min.js"></script>
     <script src="../app-assets/vendors/js/tables/ag-grid/ag-grid-community.min.noStyle.js"></script>
+    <script src="../app-assets/vendors/js/extensions/jquery.steps.min.js"></script>
+    <script src="../app-assets/vendors/js/forms/validation/jquery.validate.min.js"></script>
+    <script src="../app-assets/vendors/js/coming-soon/jquery.countdown.min.js"></script>
 
     <!-- END: Page Vendor JS-->
 
@@ -36,6 +39,8 @@
     <script src="../app-assets/js/scripts/pages/dashboard-analytics.js"></script>
     <script src="../app-assets/js/scripts/ui/data-list-view.js"></script>
     <script src="../app-assets/js/scripts/pages/app-user.js"></script>
+    <script src="../app-assets/js/scripts/forms/wizard-steps.js"></script>
+    <script src="../app-assets/js/scripts/pages/coming-soon.js"></script>
     <!-- END: Page JS-->
 
 </body>

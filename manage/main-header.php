@@ -38,6 +38,8 @@
     <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/card-analytics.css">
     <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/app-user.css">
     <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/aggrid.css">
+    <link rel="stylesheet" type="text/css" href="../app-assets/css/plugins/forms/wizard.css">
+    <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/coming-soon.css">
   
     <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/data-list-view.css">
     <!-- END: Page CSS-->
