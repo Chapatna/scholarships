@@ -1,8 +1,10 @@
 /*========================================================
         DARK LAYOUT
 =========================================================*/
+@import url("../fonts/font-kmitl-2020/css/font-kmitl-2020.css");
+
 html {
-  font-size: 14px;
+  font-size: 16px;
   height: 100%;
   letter-spacing: .01rem; }
   html body {
@@ -532,10 +534,10 @@ body.fixed-footer footer.footer-dark {
     overflow-y: scroll; }
   .main-menu .navbar-header {
     height: 100%;
-    width: 260px;
+    width: 280px;
     height: 5rem;
     position: relative;
-    padding: 0.35rem 1rem 0.3rem 1.64rem;
+    padding: 0.35rem 1.5rem 0.3rem 1rem;
     transition: 300ms ease all; }
     .main-menu .navbar-header .navbar-brand {
       display: flex;
@@ -548,10 +550,10 @@ body.fixed-footer footer.footer-dark {
         width:70px; }
       .main-menu .navbar-header .navbar-brand .brand-text {
         color: #FD8439;
-        padding-left: 0.2rem;
+        padding-left: 0.1rem;
         font-weight: 700;
         letter-spacing: 0.01rem;
-        font-size: 1.7rem;
+        font-size: 2.5rem;
         animation: 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) 0s normal forwards 1 fadein; }
     .main-menu .navbar-header .modern-nav-toggle {
       animation: 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) 0s normal forwards 1 fadein; }
@@ -572,17 +574,17 @@ body.fixed-footer footer.footer-dark {
       text-decoration: none; }
 
 .navigation {
-  font-size: 1.1rem;
-  font-family: "Montserrat", Helvetica, Arial, serif;
-  font-weight: 400;
+  font-size: 1.5rem;
+  font-family: "KMITL 2020", "Montserrat", Helvetica, Arial, serif;
+  font-weight: 500;
   overflow-y: hidden;
   padding-bottom: 20px; }
   .navigation .navigation-header {
-    font-family: "Montserrat", Helvetica, Arial, serif;
-    font-weight: 500;
+    font-family: "KMITL 2020", "Montserrat", Helvetica, Arial, serif;
+    font-weight: 900;
     line-height: 1.2;
     padding: 12px 22px;
-    font-size: .9rem;
+    font-size: 1.4rem;
     text-transform: uppercase; }
   .navigation li {
     position: relative;
@@ -2353,7 +2355,7 @@ body.dark-layout .collapse-sidebar .custom-switch .custom-control-label:before {
 
 .chip {
   background-color: #f0f0f0;
-  font-size: 0.8rem;
+  font-size: 1.3rem;
   border-radius: 1.428rem;
   display: inline-flex;
   padding: 0 10px;
@@ -2417,11 +2419,11 @@ body.dark-layout .collapse-sidebar .custom-switch .custom-control-label:before {
   .divider .divider-text {
     position: relative;
     display: inline-block;
-    font-size: .9375rem;
+    font-size: 1.375rem;
     padding: 0 1rem;
     background-color: #fff; }
     .divider .divider-text i {
-      font-size: 1rem; }
+      font-size: 1.375rem; }
     .divider .divider-text:before, .divider .divider-text:after {
       content: "";
       position: absolute;
@@ -2538,6 +2540,7 @@ Input Icon
   .has-icon-left .form-control-position i {
     position: relative;
     left: 5px;
+    top: 10px;
     color: rgba(34, 41, 47, 0.4); }
 
 input[type="color"] {
@@ -2727,7 +2730,7 @@ table.dataTable {
     border-bottom: 1px solid #f8f8f8;
     border-top: 0; }
   table.dataTable thead th, table.dataTable thead td, table.dataTable tfoot th, table.dataTable tfoot td {
-    font-size: 0.85rem;
+    font-size: 1.4rem;
     border: 0; }
   table.dataTable thead tr {
     background-color: #f8f8f8; }
@@ -2774,7 +2777,7 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination {
   margin-top: 1rem;
   padding-bottom: 7px; }
   div.dataTables_wrapper div.dataTables_paginate ul.pagination li a {
-    font-size: 0.8rem; }
+    font-size: 1.4rem; }
 
 tr.group {
   background-color: #ededed; }

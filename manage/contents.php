@@ -21,7 +21,7 @@ $page=$_REQUEST['page'];
 		else
 		{
 
-		include "page-coming-soon.php"; 
+		include "main-content.php"; 
 
 		}
 

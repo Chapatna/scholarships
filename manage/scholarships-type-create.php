@@ -162,6 +162,7 @@
                 </section>
                 <!-- Form wizard with number tabs section end -->
 
+            </div>
         </div>
     </div>
     <!-- END: Content-->

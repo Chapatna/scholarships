@@ -12,7 +12,7 @@
     <title><?= $txt_titlepage_admin;?></title>
     <link rel="apple-touch-icon" href="app-assets/images/ico/apple-icon-120.png">
     <link rel="shortcut icon" type="image/x-icon" href="app-assets/images/ico/favicon.ico">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="app-assets/fonts/font-kmitl-2020/css/font-kmitl-2020.css">
 
     <!-- BEGIN: Vendor CSS-->
     <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/vendors.min.css">
@@ -32,8 +32,8 @@
     <link rel="stylesheet" type="text/css" href="app-assets/css/pages/authentication.css">
     <!-- END: Page CSS-->
 
-    <!-- BEGIN: Custom CSS-->
-    <link rel="stylesheet" type="text/css" href="../../../assets/css/style.css">
+    <!-- BEGIN: Custom CSS
+    <link rel="stylesheet" type="text/css" href="../../../assets/css/style.css">-->
     <!-- END: Custom CSS-->
 
 </head>
@@ -92,7 +92,7 @@
                                         </div>
                                         <div class="login-footer">
                                             <div class="divider">
-                                                <div class="divider-text">COPYRIGHT &copy;<?= $txt_copyyear;?> OSDA ,All rights Reserved
+                                                <div class="divider-text">COPYRIGHT <?= $txt_copyyear;?> OSDA ,All rights Reserved.
                                                 <br>Developed by Computer Service Center</div>
                                             </div>
 

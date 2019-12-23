@@ -441,7 +441,7 @@
                 </section>
                 <!-- Dashboard Analytics end -->
 
-
+            </div>
         </div>
     </div>
     <!-- END: Content-->

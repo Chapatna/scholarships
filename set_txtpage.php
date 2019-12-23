@@ -10,8 +10,8 @@
 
 
     //Footer
-    $txt_copyright= "COPYRIGHT &copy; ".$txt_copyyear." Office of Student Affairs and Alumni Relation KMITL ,All rights Reserved "; 
-    $txt_development= "Developed by Computer Service Center"."- Hand-crafted & Made with<i class='feather icon-heart pink'></i>";
+    $txt_copyright= "COPYRIGHT ".$txt_copyyear." Office of Student Affairs and Alumni Relation KMITL, All rights Reserved."; 
+    $txt_development= "Developed by Computer Service Center"."- Made with<i class='feather icon-heart pink'></i>";
     
 
     // Admin
